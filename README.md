@@ -22,3 +22,5 @@ I'm always looking for opportunities to apply my **analytical skills** and creat
 - **LinkedIn**: [www.linkedin.com/in/newaz-bin-jafor-03245934b]
 - **Email**: [newaz.bin.jafor@gmail.com]
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Newaz-j)](https://github.com/anuraghazra/github-readme-stats)
+
