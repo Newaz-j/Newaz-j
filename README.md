@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello! I'm Newaz 👋
 
-<!--
-**Newaz-j/Newaz-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a **highly motivated Computer Science undergraduate** at **BRAC University** with a strong foundation in **problem-solving**, **programming**, and **critical thinking**. I am passionate about **data science** and **programming** in general, and I am constantly exploring new technologies and methodologies to expand my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am an **HR Executive** at the **BRACU Computer Club**, where I contribute to managing members, organizing events, and ensuring smooth club operations. This experience has enhanced my communication, leadership, and organizational skills.
+
+I'm always looking for opportunities to apply my **analytical skills** and creativity to real-world challenges.
+## Skills & Technologies
+
+- **Programming Languages**: Python, Java, JavaScript
+- **Web Development**: HTML, CSS
+- **Data Science**: Numpy, Matplotlib 
+- **Tools**: Git, GitHub, VS Code
+-**Microsoft Office**: Excel (data analysis, pivot tables, formulas), Word, PowerPoint
+-**Google Workspace**: Google Docs, Google Sheets, Google Drive, Google Forms
+
+
+## Reach Out to Me
+
+- **LinkedIn**: [www.linkedin.com/in/newaz-bin-jafor-03245934b]
+- **Email**: [newaz.bin.jafor@gmail.com]
+
